@@ -1,0 +1,325 @@
+html{
+    background-color:rgb(42, 43, 46)  ;
+}
+
+h1{
+    color: #f0f8ff;
+    text-align-last:right;
+     margin-right: 3%;
+     
+}
+h4 , h2 {
+    color:rgb(234, 241, 247);
+
+}
+h3{
+    color: rgba(225, 232, 238, 0.774);
+}
+.p-h3{
+    color: rgba(237, 243, 248, 0.774);
+    font-size: large;
+}
+span{
+    color: aqua;
+}
+button{
+    color:aliceblue;
+     background-color: rgb(1, 240, 240);
+      width: 230px;
+       height: 50px; 
+       font-size: x-large;
+        border: 0px;
+        border-style:solid; 
+        margin-bottom: 70px;
+        border-radius: 5px;
+}
+.par{
+    font-size:8vmax ;
+    color: #f0f8ff;
+}
+.par1{
+    font-size:3vmax ;
+    color: #f0f8ff; 
+
+}
+
+p{
+    color: white;
+    font-size:large;
+    margin-bottom: 25px;
+
+}
+.page1-div{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+
+}
+.div-left{
+    text-align-last: right;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around; 
+    width: 950px;
+}
+
+.navItem{
+    color: aliceblue;
+}
+.iPhone-6S{
+    width: 330px;
+    height: 350px;
+    border: 5px dashed rgb(1, 240, 240) ;
+    border-style:solid; 
+    margin-left: 10%;
+}
+.iPhone6SFont-Mockup{
+    margin-left: 10%;
+}
+.applictionTheJawhar{
+   
+    text-align: center;
+     margin-top:3cm;
+}
+.HR1{
+    width: 30px;
+     margin-right: 1%;
+}
+.HR2{
+    width: 35px;
+    margin-right: 26%;
+}
+
+.page1{
+   background-image: url(img/page1.jpG);
+   height: 750px;
+   margin-top: 0px;
+   width:100%;
+}
+
+.page2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 670px;
+    margin-top: 5%;
+}
+.appliction{
+    
+      text-align-last:right;
+      width: 410px;
+      margin-top: -1px;
+
+}
+.page3{
+    background-image: url(img/page3.svG);
+    height: 800px;
+}
+
+.applictionAdvantge {
+    width: 400px; 
+    text-align-last: center;
+     margin-left: 30%;
+    
+}
+.H3page3{
+    width: 450px; 
+    text-align-last: center;
+    color: #e0e0e0;
+   margin-left: 35%;
+}
+.form1{
+display: flex; 
+justify-content:space-around;
+ width: 900px;
+  height: 220px;
+   margin-left: 20%;
+}
+.form1-div{
+    width: 280px;
+     height: 200px; 
+      text-align-last: right ;
+        border: 5px dashed aliceblue;
+         border-style: solid; 
+         
+}
+.icon{
+    margin-top: 6%;
+    margin-right:13px;
+}
+.form1-h4{
+    color: #f0f8ff;
+    margin-right: 7px;
+    margin-left:15px;
+}
+.form1-h5{
+    color: #f0f8ff;
+    margin-right: 10px;
+    margin-left:10px; 
+}
+
+.pHR{
+    color: #f0f8ff;
+    font-size: 3vmax;
+    margin-top: -30px;
+}
+.form2{
+    display: flex;
+    flex-direction: row;
+     justify-content:space-around;
+     margin-left: 25%;
+     text-align-last:right;
+     width: 920px;
+}
+.page4{
+    height: 500px;
+}
+.page4-address{
+    margin-right: 6.5%;
+}
+.form2-div{
+ width: 370px;
+}
+.H3page4{
+    color: rgb(240, 240, 240);
+}
+.HR3{
+    width: 30px;
+     margin-right: 3%;
+}
+.page5{
+    height: 730px;
+}
+.page5-div{
+    background-image: url(img/page5.svG);
+    height: 500px ;   
+}
+.iform3{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around ;
+    width: 950px;
+    margin-left: 310px;
+    
+}
+.H1page5{
+ color: white;
+}
+.iPhone123{
+    height: 680px;
+    margin-top: -40px;
+}
+.applictionLoad{
+   
+     text-align-last:right;
+     margin-top: 10%;
+     width: 380px;
+}
+.navbar-brand{
+    margin-right: 2%;
+}
+.page6{
+    height: 900px;
+}
+.appstore , .plyestore{
+    width: 150px;
+    background-color: transparent;
+    border: 1px solid white;
+  }
+  .Tvs{
+    width: 600px;
+     height: 300px; 
+      text-align-last: right ;
+        border: 1px dashed aliceblue;
+         border-style: solid; 
+         border-left: 0px; 
+         margin-top: 20%;
+  }
+  
+  .group{
+      display: flex;
+  }
+  .form4{
+      display: flex;
+      justify-content:space-between;
+
+  }
+  .tag{
+      margin-top: 20%;
+      margin-left: 5%;
+  }
+   
+  .tvs-div{
+    margin-right: 20%;
+    margin-top: 17%;
+  }
+  .page7{
+      background-image: url(img/Group%2014285.svg);
+      height: 700px;
+  }
+  .div5{ 
+      width: 700px;
+      height: 400px;
+       border-top-right-radius: 3px dashed aqua;
+        border-top-left-radius:3px dashed aqua;
+       
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        text-align: center;
+        }  
+  .page7-div{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+  }
+  .customersOpinions{
+    width: 400px; 
+    text-align-last: center;
+     margin-left: 35%;
+  }
+  .page8{
+      height: 550px;
+  }
+ .page8-form-left{
+     width: 250px;
+     text-align-last: right;
+    
+ } 
+ .page8-form-right {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 550px;
+    height: 500px;
+ }
+ 
+ .button1{
+     margin-left: 58%;
+ }
+
+ input , textarea {
+    text-align-last: right;
+    border: none;
+    border-bottom: 1px solid rgb(233, 232, 232) ;
+     color: aliceblue;
+     background-color:rgb(42, 43, 46)  ;
+   height: 60px;
+ }
+ .img , .p1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+ }
+.page8-form-left2 , .page8-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ 
+}
+.final{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
